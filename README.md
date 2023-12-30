@@ -1,7 +1,7 @@
 #  VITE+REACT MERN project
 # Instructions
   ## client side 
- 1. npm init vite
+ 1. npm init vite (or) npm create vite@latest
  2. npm install bootstrap react-router-dom axios
  3. npm run dev
   ## server side
